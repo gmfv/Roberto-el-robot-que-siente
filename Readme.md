@@ -7,7 +7,9 @@ El proyecto consiste en una cara que fija la mirada en las personas e imita sus 
 Roberto emite sonidos de risa al ver sonreír a una persona y sonidos de llanto al detectar que una persona está con cara triste.
 
 Puede inclinar su cabeza de costado y girar el cuello (Haciendo el gesto de "No")
-!Image
+
+![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Isometrico_Roberto.jpg)
+
 ## Iniciando
 ### Materiales
 * Raspberry pi +3B
