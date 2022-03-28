@@ -8,7 +8,7 @@ Roberto emite sonidos de risa al ver sonreír a una persona y sonidos de llanto 
 
 Puede inclinar su cabeza de costado y girar el cuello (Haciendo el gesto de "No")
 
-![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Isometrico_Roberto.jpg)
+![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Isometrico_Roberto%20(1).jpg)
 
 ## Iniciando
 ### Materiales
