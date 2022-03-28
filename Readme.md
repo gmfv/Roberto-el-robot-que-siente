@@ -1,12 +1,13 @@
 # Roberto, el robot que siente
 
-El proyecto consiste en una cara que fija la mirada en las personas e imita sus emociones.
+El proyecto consiste en ojos animatrónicos que fijan la mirada en las personas e imitam sus movimientos de cabeza y emociones.
 
 ## Descripción
 
-Roberto emite sonidos de risa al ver sonreír a una persona y sonidos de llanto al detectar que una persona está con cara triste.
-
-Puede inclinar su cabeza de costado y girar el cuello (Haciendo el gesto de "No")
+Roberto puede:
+* Emitir sonidos de risa al ver sonreír a una persona y sonidos de llanto al detectar que una persona está con cara triste.
+* Imitar el movimiento de inclinar la cabeza al costado.
+* Seguir con la mirada a las personas y girando el cuello (Como haciendo el gesto de "No")
 
 ![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Roberto_Frontal%20(1).jpg)
 
