@@ -17,9 +17,7 @@ Puede inclinar su cabeza de costado y girar el cuello (Haciendo el gesto de "No"
 * Arduino 
 * Micro servo motores x4
 * Servo motores de alto torque x3
-* Impresiones 3D de los ojos y sus soportes (Se han utilizado las piezas de [James Bruton](https://github.com/XRobots/ServoSmoothing/tree/main/CAD)).
-
-![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Isometrico_Roberto%20(1).jpg)
+* Impresiones 3D de los ojos y sus soportes (Se han utilizado las piezas de [James Bruton](https://github.com/XRobots/ServoSmoothing/tree/main/CAD)). ![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Isometrico_Roberto%20(1).jpg)
 
 * Impresión del porta-cámara (Diseño propio. Incluido en el proyecto)
 
