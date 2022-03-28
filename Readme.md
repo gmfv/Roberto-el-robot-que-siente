@@ -8,6 +8,7 @@ Roberto emite sonidos de risa al ver sonreír a una persona y sonidos de llanto 
 
 Puede inclinar su cabeza de costado y girar el cuello (Haciendo el gesto de "No")
 
+![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Roberto_Frontal%20(1).jpg)
 
 ## Iniciando
 ### Materiales
@@ -18,6 +19,8 @@ Puede inclinar su cabeza de costado y girar el cuello (Haciendo el gesto de "No"
 * Micro servo motores x4
 * Servo motores de alto torque x3
 * Impresiones 3D de los ojos y sus soportes (Se han utilizado las piezas de [James Bruton](https://github.com/XRobots/ServoSmoothing/tree/main/CAD)). 
+* Tornillos M3 y M2
+
 ![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Isometrico_Roberto%20(1).jpg)
 
 * Impresión del porta-cámara (Diseño propio. Incluido en el proyecto)
