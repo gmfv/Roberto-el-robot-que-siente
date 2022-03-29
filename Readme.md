@@ -39,4 +39,4 @@ Roberto puede:
       
 ## Autores
 * [Giohanna Martínez](https://github.com/gmfv)
-* Diego Valenzuela
+* [Diego Valenzuela](https://github.com/ValenzuelaDiego)
