@@ -11,6 +11,8 @@ Roberto puede:
 
 ![Image text](https://github.com/gmfv/Roberto-el-robot-que-siente/blob/main/Roberto_Frontal%20(1).jpg)
 
+[Videos ilustrativos del funcionamiento](https://drive.google.com/drive/folders/1FE7oooqcs98mvzBAV36Hg5GqQWTchDLI?usp=share_link)
+
 ## Iniciando
 ### Materiales
 * Raspberry pi +3B
